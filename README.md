@@ -24,3 +24,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=JP-0506&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://streak-stats.demolab.com/?user=JP-0506&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JP-0506&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+### 📈 Contribution Graph:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JP-0506&theme=radical&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+</div>
